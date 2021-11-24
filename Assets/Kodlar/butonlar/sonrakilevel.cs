@@ -10,6 +10,7 @@ public class sonrakilevel : MonoBehaviour
     public void sonrakilevel1()
     {
         SceneManager.LoadScene("Sahne2");
+        Time.timeScale=1;
     }
 
    
