@@ -1,0 +1,20 @@
+[api-updater (non-obsolete-error-filter)] 21.11.2021 23:16:22 : Starting C:/Program Files/Unity 2020.3.20f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 10334,8997ms
+moved types parse time: 218ms
+candidates parse time : 6ms
+C# parse time         : 1064ms
+candidates check time : 43ms
+console write time    : 19ms
+
+[api-updater (non-obsolete-error-filter)] 23.11.2021 20:46:26 : Starting C:/Program Files/Unity 2020.3.20f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 19119,8587ms
+moved types parse time: 265ms
+candidates parse time : 58ms
+C# parse time         : 860ms
+candidates check time : 99ms
+console write time    : 13ms
+

@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - pizza
+  - zemin
+  - tahta
+  - karpuz
+  - kesilen
+  - bicak
+  - bitis
+  - bitis2
+  - bitis3
+  - bitis4
+  - bitis5
+  - bitis6
+  - bitis7
+  - bitis8
+  - bitis9
+  - bitis10
+  - bitis11
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - bicak
+  - Kesilebilir
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
